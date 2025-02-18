@@ -1,0 +1,13 @@
+@media (min-width: 1200px) and (max-width: 1400px) {
+    html {
+        font-size: 53.125% !important;
+    }
+    .spravochnik-schema-bottom::before {
+        right: 11.2rem;
+        left:11.2rem;
+    }
+    .spravochnik-schema-top-right-bottom::after { 
+        top: 2.8rem;
+        bottom: 2.8rem;
+    }
+}
